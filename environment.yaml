@@ -1,0 +1,18 @@
+---
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - scikit-learn=0.18.*
+  - pandas=0.23.*
+  - gensim
+  - ipywidgets 
+  - beakerx
+  - spacy
+  - scikit-learn=0.19.1
+  - tensorflow=1.9.0
+    pip:
+      - pandas==0.23.0
+      - tqdm==4.24.0
+      - swifter==0.211
+
